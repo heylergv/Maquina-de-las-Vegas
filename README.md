@@ -1,4 +1,4 @@
-PUedes clonar el repositorio en tu IDE y para ejecutarlo:
+Puedes clonar el repositorio en tu IDE y para ejecutarlo:
 1. Desde la terminal de tu IDE (Si usas VS Code o PyCharm Ctrl+j) unicamente escribe: python Maquina.py
 2. Para iniciar a jugar copia y pega el emoji del billete 💵 o copialo desde aqui y pegalo.
 3. Intenta las veces que quieras para jugar.
